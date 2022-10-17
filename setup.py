@@ -7,6 +7,7 @@ from setuptools import find_packages, setup
 
 setup(
     name='testmybinder',
+    version='0.1',
     description="testmybinder",
     setup_requires="setuptools_scm",
     install_requires=[
